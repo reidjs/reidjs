@@ -1,5 +1,4 @@
-### Hi
-❤️ Software projects that:
+### ❤️ Software projects that:
 - Minimize complexity
 - "Read like a story"
 - Solve one problem well
