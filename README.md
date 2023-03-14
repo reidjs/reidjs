@@ -1,7 +1,7 @@
 ### ❤️ Working on software projects that:
 - Minimize complexity
 - "Read like a story"
-- Solve one problem well
+- Solve user problem(s)
 
 Easier said than done! 
 
