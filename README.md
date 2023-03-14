@@ -1,6 +1,6 @@
 ### ❤️ Working on software projects that:
 - Minimize complexity
-- "Read like a story"
+- Emphasize readable code
 - Solve user problem(s)
 
 Easier said than done! 
