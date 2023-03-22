@@ -1,7 +1,7 @@
 ### ❤️ Working on software projects that:
 - Minimize complexity
 - Emphasize readable code
-- Solve user problem(s)
+- Make our lives easier by solving real problems
 
 Easier said than done, of course.
 
