@@ -1,4 +1,4 @@
-### ❤️ Working on software that:
+### Write software that:
 - Minimizes complexity
 - Emphasizes readable code
 - Makes our lives easier
