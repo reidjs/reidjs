@@ -1,10 +1,1 @@
-```
-⁣⛅ ☁   ☁️  🚁   🛩️
-      🌴 /|  \ 🏫
-_____🚋_🚴🏻‍♂️_____🏎️___
-⁣  🏚️🌳 /   |🚔  \ 🏠
-   🎋/     | 🚘  \ 🎄🏦
- 🏘️/       |      \ 🏡🏚️
-```
-
-(squint and you can see what's going on)
+They were so preoccupied with whether or not they could, they didn't stop to think if they should 😬
