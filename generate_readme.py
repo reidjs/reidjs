@@ -21,7 +21,7 @@ content = f"""
 ## Joke of the Day
 {random.choice(jokes)}
 
-Last updated: {datetime.now().strftime('%B %d, %Y')}
+{datetime.now().strftime('%B %d, %Y')}
 """
 
 with open("README.md", "w") as f:
