@@ -23,11 +23,11 @@ jobs:
 
       - name: Commit changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           GITHUB_EMAIL: ${{ secrets.EMAIL }}
         run: |
           git config --global user.name 'reidjs'
           git config --global user.email '$EMAIL'
           git add README.md
           git commit -m "Updated README with new content"
-          git push
+          git push https://reidjs:${{ secrets.TOKEN }}@github.com/reidjs/reidjs.git
