@@ -22,12 +22,9 @@ jobs:
         run: python generate_readme.py
 
       - name: Commit changes
-        env:
-          TOKEN: ${{ secrets.TOKEN }}
-          EMAIL: ${{ secrets.EMAIL }}
         run: |
-          git config --global user.name 'reidjs'
-          git config --global user.email '$EMAIL'
+          git config --global user.name 'README-bot'
+          git config --global user.email 'actions@users.noreply.github.com'
           git add README.md
-          git commit -m "Updated README with new content"
-          git push https://reidjs:${{ secrets.TOKEN }}@github.com/reidjs/reidjs.git
+          git commit -m "Updated README with new content" || exit 0
+          git push
