@@ -18,10 +18,10 @@ jokes = [
 
 # Generate the content for the README
 content = f"""
-## Joke of the Day
+## Today's Joke
 {random.choice(jokes)}
 
-{datetime.now().strftime('%B %d, %Y')}
+According to UTC, today is {datetime.now().strftime('%B %d, %Y')}
 """
 
 with open("README.md", "w") as f:
