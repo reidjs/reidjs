@@ -1,2 +1,4 @@
 ## Today's Joke
-Why did JavaScript fail college? Because they never learned to type!
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
+
+*Updated July 24, 2024 (UTC)*
