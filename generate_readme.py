@@ -21,7 +21,7 @@ content = f"""
 ## Today's Joke
 {random.choice(jokes)}
 
-According to UTC, today is {datetime.now().strftime('%B %d, %Y')}
+Today (UTC) is {datetime.now().strftime('%B %d, %Y')}
 """
 
 with open("README.md", "w") as f:
