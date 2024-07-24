@@ -20,7 +20,7 @@ jokes = [
 content = f"""## Today's Joke
 {random.choice(jokes)}
 
-Updated {datetime.now().strftime('%B %d, %Y')} (UTC)
+*Updated {datetime.now().strftime('%B %d, %Y')} (UTC)*
 """
 
 with open("README.md", "w") as f:
