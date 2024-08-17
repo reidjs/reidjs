@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do Java developers wear glasses? Because they don't C#.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
 
-*Updated August 16, 2024 (UTC)*
+*Updated August 17, 2024 (UTC)*
