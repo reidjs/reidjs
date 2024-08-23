@@ -1,4 +1,4 @@
 ## Today's Joke
-Why did the database administrator break up with the SQL server? She found it too controlling.
+What's a programmer's favorite type of music? Algo-rhythm.
 
-*Updated August 22, 2024 (UTC)*
+*Updated August 23, 2024 (UTC)*
