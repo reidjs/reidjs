@@ -1,4 +1,4 @@
 ## Today's Joke
-Why don't programmers like nature? It has too many bugs.
+Why do Java developers wear glasses? Because they don't C#.
 
-*Updated August 30, 2024 (UTC)*
+*Updated August 31, 2024 (UTC)*
