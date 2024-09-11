@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated September 10, 2024 (UTC)*
+*Updated September 11, 2024 (UTC)*
