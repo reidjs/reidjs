@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated November 02, 2024 (UTC)*
+*Updated November 03, 2024 (UTC)*
