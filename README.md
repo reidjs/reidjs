@@ -1,4 +1,4 @@
 ## Today's Joke
-Why don't programmers like nature? It has too many bugs.
+What's a computer's favorite snack? Microchips.
 
-*Updated November 14, 2024 (UTC)*
+*Updated November 15, 2024 (UTC)*
