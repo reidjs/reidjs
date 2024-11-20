@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+How do you know if a computer is hungry? It takes a lot of bytes.
 
-*Updated November 19, 2024 (UTC)*
+*Updated November 20, 2024 (UTC)*
