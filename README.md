@@ -1,4 +1,4 @@
 ## Today's Joke
-Why did the database administrator break up with the SQL server? She found it too controlling.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated December 03, 2024 (UTC)*
+*Updated December 04, 2024 (UTC)*
