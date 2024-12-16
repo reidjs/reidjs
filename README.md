@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated December 15, 2024 (UTC)*
+*Updated December 16, 2024 (UTC)*
