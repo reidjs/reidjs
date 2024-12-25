@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+Why don't programmers like nature? It has too many bugs.
 
-*Updated December 24, 2024 (UTC)*
+*Updated December 25, 2024 (UTC)*
