@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a programmer's favorite type of music? Algo-rhythm.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated December 31, 2024 (UTC)*
+*Updated January 01, 2025 (UTC)*
