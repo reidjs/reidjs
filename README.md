@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do Java developers wear glasses? Because they don't C#.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated January 15, 2025 (UTC)*
+*Updated January 16, 2025 (UTC)*
