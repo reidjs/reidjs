@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+Why don't programmers like nature? It has too many bugs.
 
-*Updated January 17, 2025 (UTC)*
+*Updated January 18, 2025 (UTC)*
