@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+What's a programmer's favorite type of music? Algo-rhythm.
 
-*Updated January 22, 2025 (UTC)*
+*Updated January 23, 2025 (UTC)*
