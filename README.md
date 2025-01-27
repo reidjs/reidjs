@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do programmers prefer dark mode? Because light attracts bugs.
+Why don't programmers like nature? It has too many bugs.
 
-*Updated January 26, 2025 (UTC)*
+*Updated January 27, 2025 (UTC)*
