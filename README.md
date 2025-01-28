@@ -1,4 +1,4 @@
 ## Today's Joke
-Why don't programmers like nature? It has too many bugs.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated January 27, 2025 (UTC)*
+*Updated January 28, 2025 (UTC)*
