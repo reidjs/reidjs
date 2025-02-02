@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated February 01, 2025 (UTC)*
+*Updated February 02, 2025 (UTC)*
