@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+Why do Java developers wear glasses? Because they don't C#.
 
-*Updated February 11, 2025 (UTC)*
+*Updated February 12, 2025 (UTC)*
