@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+Why was the computer cold? It left its Windows open.
 
-*Updated February 14, 2025 (UTC)*
+*Updated February 15, 2025 (UTC)*
