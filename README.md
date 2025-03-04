@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do programmers prefer dark mode? Because light attracts bugs.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated March 03, 2025 (UTC)*
+*Updated March 04, 2025 (UTC)*
