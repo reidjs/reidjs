@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you comfort a JavaScript bug? You console it.
+Why do Java developers wear glasses? Because they don't C#.
 
-*Updated March 20, 2025 (UTC)*
+*Updated March 21, 2025 (UTC)*
