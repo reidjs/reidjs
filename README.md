@@ -1,4 +1,4 @@
 ## Today's Joke
-Why did the database administrator break up with the SQL server? She found it too controlling.
+Why was the computer cold? It left its Windows open.
 
-*Updated March 27, 2025 (UTC)*
+*Updated March 28, 2025 (UTC)*
