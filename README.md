@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do Java developers wear glasses? Because they don't C#.
+Why was the programmer poor? Because he didn't get arrays.
 
-*Updated March 30, 2025 (UTC)*
+*Updated March 31, 2025 (UTC)*
