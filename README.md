@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a programmer's favorite type of music? Algo-rhythm.
+Why don't programmers like nature? It has too many bugs.
 
-*Updated April 12, 2025 (UTC)*
+*Updated April 13, 2025 (UTC)*
