@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated April 17, 2025 (UTC)*
+*Updated April 18, 2025 (UTC)*
