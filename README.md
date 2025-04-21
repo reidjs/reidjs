@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a programmer's favorite type of music? Algo-rhythm.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated April 20, 2025 (UTC)*
+*Updated April 21, 2025 (UTC)*
