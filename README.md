@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do programmers prefer dark mode? Because light attracts bugs.
+Why do Java developers wear glasses? Because they don't C#.
 
-*Updated April 26, 2025 (UTC)*
+*Updated April 27, 2025 (UTC)*
