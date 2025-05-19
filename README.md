@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+What's a computer's favorite snack? Microchips.
 
-*Updated May 18, 2025 (UTC)*
+*Updated May 19, 2025 (UTC)*
