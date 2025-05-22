@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated May 21, 2025 (UTC)*
+*Updated May 22, 2025 (UTC)*
