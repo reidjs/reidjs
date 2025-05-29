@@ -1,4 +1,4 @@
 ## Today's Joke
-Why don't programmers like nature? It has too many bugs.
+Why was the programmer poor? Because he didn't get arrays.
 
-*Updated May 28, 2025 (UTC)*
+*Updated May 29, 2025 (UTC)*
