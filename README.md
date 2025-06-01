@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do Java developers wear glasses? Because they don't C#.
+How do you know if a computer is hungry? It takes a lot of bytes.
 
-*Updated May 31, 2025 (UTC)*
+*Updated June 01, 2025 (UTC)*
