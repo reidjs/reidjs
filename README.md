@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated June 01, 2025 (UTC)*
+*Updated June 02, 2025 (UTC)*
