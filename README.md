@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+Why do programmers prefer dark mode? Because light attracts bugs.
 
-*Updated June 08, 2025 (UTC)*
+*Updated June 09, 2025 (UTC)*
