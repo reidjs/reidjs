@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
 
-*Updated June 25, 2025 (UTC)*
+*Updated June 26, 2025 (UTC)*
