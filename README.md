@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why do programmers prefer dark mode? Because light attracts bugs.
 
-*Updated June 26, 2025 (UTC)*
+*Updated June 27, 2025 (UTC)*
