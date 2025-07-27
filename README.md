@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do programmers prefer dark mode? Because light attracts bugs.
+What's a computer's favorite snack? Microchips.
 
-*Updated July 26, 2025 (UTC)*
+*Updated July 27, 2025 (UTC)*
