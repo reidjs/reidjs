@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you comfort a JavaScript bug? You console it.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated August 11, 2025 (UTC)*
+*Updated August 12, 2025 (UTC)*
