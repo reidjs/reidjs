@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do Java developers wear glasses? Because they don't C#.
+What's a programmer's favorite type of music? Algo-rhythm.
 
-*Updated August 18, 2025 (UTC)*
+*Updated August 19, 2025 (UTC)*
