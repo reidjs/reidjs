@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
 
-*Updated August 27, 2025 (UTC)*
+*Updated August 28, 2025 (UTC)*
