@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why was the programmer poor? Because he didn't get arrays.
 
-*Updated September 11, 2025 (UTC)*
+*Updated September 12, 2025 (UTC)*
