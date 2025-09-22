@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+Why do Java developers wear glasses? Because they don't C#.
 
-*Updated September 21, 2025 (UTC)*
+*Updated September 22, 2025 (UTC)*
