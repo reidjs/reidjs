@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
 
-*Updated October 01, 2025 (UTC)*
+*Updated October 02, 2025 (UTC)*
