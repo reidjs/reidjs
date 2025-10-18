@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+What's a programmer's favorite type of music? Algo-rhythm.
 
-*Updated October 17, 2025 (UTC)*
+*Updated October 18, 2025 (UTC)*
