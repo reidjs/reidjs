@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+What's a programmer's favorite type of music? Algo-rhythm.
 
-*Updated October 25, 2025 (UTC)*
+*Updated October 26, 2025 (UTC)*
