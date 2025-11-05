@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do Java developers wear glasses? Because they don't C#.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated November 04, 2025 (UTC)*
+*Updated November 05, 2025 (UTC)*
