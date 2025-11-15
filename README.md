@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a programmer's favorite type of music? Algo-rhythm.
+Why was the computer cold? It left its Windows open.
 
-*Updated November 14, 2025 (UTC)*
+*Updated November 15, 2025 (UTC)*
