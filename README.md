@@ -1,4 +1,4 @@
 ## Today's Joke
-Why don't programmers like nature? It has too many bugs.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
 
-*Updated November 18, 2025 (UTC)*
+*Updated November 19, 2025 (UTC)*
