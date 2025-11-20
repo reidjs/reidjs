@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated November 19, 2025 (UTC)*
+*Updated November 20, 2025 (UTC)*
