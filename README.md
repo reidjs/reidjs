@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+Why was the programmer poor? Because he didn't get arrays.
 
-*Updated November 27, 2025 (UTC)*
+*Updated November 28, 2025 (UTC)*
