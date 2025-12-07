@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+Why was the programmer poor? Because he didn't get arrays.
 
-*Updated December 06, 2025 (UTC)*
+*Updated December 07, 2025 (UTC)*
