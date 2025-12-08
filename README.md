@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated December 07, 2025 (UTC)*
+*Updated December 08, 2025 (UTC)*
