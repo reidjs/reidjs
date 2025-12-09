@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you comfort a JavaScript bug? You console it.
+Why do programmers prefer dark mode? Because light attracts bugs.
 
-*Updated December 08, 2025 (UTC)*
+*Updated December 09, 2025 (UTC)*
