@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why don't programmers like nature? It has too many bugs.
 
-*Updated December 29, 2025 (UTC)*
+*Updated December 30, 2025 (UTC)*
