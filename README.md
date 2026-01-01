@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+Why was the programmer poor? Because he didn't get arrays.
 
-*Updated December 31, 2025 (UTC)*
+*Updated January 01, 2026 (UTC)*
