@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
 
-*Updated January 03, 2026 (UTC)*
+*Updated January 04, 2026 (UTC)*
