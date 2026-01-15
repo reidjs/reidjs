@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you comfort a JavaScript bug? You console it.
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
 
-*Updated January 14, 2026 (UTC)*
+*Updated January 15, 2026 (UTC)*
