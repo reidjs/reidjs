@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+Why do programmers prefer dark mode? Because light attracts bugs.
 
-*Updated February 12, 2026 (UTC)*
+*Updated February 13, 2026 (UTC)*
