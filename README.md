@@ -1,4 +1,4 @@
 ## Today's Joke
-Why do programmers prefer dark mode? Because light attracts bugs.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated February 13, 2026 (UTC)*
+*Updated February 14, 2026 (UTC)*
