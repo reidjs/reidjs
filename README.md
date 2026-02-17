@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a programmer's favorite type of music? Algo-rhythm.
+Why do programmers prefer dark mode? Because light attracts bugs.
 
-*Updated February 16, 2026 (UTC)*
+*Updated February 17, 2026 (UTC)*
