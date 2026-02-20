@@ -1,4 +1,4 @@
 ## Today's Joke
-How many programmers does it take to change a light bulb? None, that's a hardware problem.
+Why was the computer cold? It left its Windows open.
 
-*Updated February 19, 2026 (UTC)*
+*Updated February 20, 2026 (UTC)*
