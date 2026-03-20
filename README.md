@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated March 19, 2026 (UTC)*
+*Updated March 20, 2026 (UTC)*
