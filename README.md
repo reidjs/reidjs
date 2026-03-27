@@ -1,4 +1,4 @@
 ## Today's Joke
-Why did the database administrator break up with the SQL server? She found it too controlling.
+What's a computer's favorite snack? Microchips.
 
-*Updated March 26, 2026 (UTC)*
+*Updated March 27, 2026 (UTC)*
