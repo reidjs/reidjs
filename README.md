@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated April 14, 2026 (UTC)*
+*Updated April 15, 2026 (UTC)*
