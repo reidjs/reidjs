@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.
+How do you know if a computer is hungry? It takes a lot of bytes.
 
-*Updated April 17, 2026 (UTC)*
+*Updated April 18, 2026 (UTC)*
