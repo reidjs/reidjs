@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+How do you comfort a JavaScript bug? You console it.
 
-*Updated May 13, 2026 (UTC)*
+*Updated May 14, 2026 (UTC)*
