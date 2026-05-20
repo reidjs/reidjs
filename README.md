@@ -1,4 +1,4 @@
 ## Today's Joke
-How do you know if a computer is hungry? It takes a lot of bytes.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated May 19, 2026 (UTC)*
+*Updated May 20, 2026 (UTC)*
