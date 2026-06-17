@@ -1,4 +1,4 @@
 ## Today's Joke
-What's a computer's favorite snack? Microchips.
+What's a programmer's favorite type of music? Algo-rhythm.
 
-*Updated June 16, 2026 (UTC)*
+*Updated June 17, 2026 (UTC)*
