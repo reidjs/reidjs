@@ -1,4 +1,4 @@
 ## Today's Joke
-Why don't programmers like nature? It has too many bugs.
+Why did the database administrator break up with the SQL server? She found it too controlling.
 
-*Updated June 24, 2026 (UTC)*
+*Updated June 25, 2026 (UTC)*
