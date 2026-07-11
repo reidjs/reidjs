@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the programmer poor? Because he didn't get arrays.
+How do you know if a computer is hungry? It takes a lot of bytes.
 
-*Updated July 10, 2026 (UTC)*
+*Updated July 11, 2026 (UTC)*
