@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+What's a computer's favorite snack? Microchips.
 
-*Updated July 26, 2026 (UTC)*
+*Updated July 27, 2026 (UTC)*
