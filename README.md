@@ -1,4 +1,4 @@
 ## Today's Joke
-Why was the computer cold? It left its Windows open.
+Why do programmers prefer dark mode? Because light attracts bugs.
 
-*Updated September 16, 2026 (UTC)*
+*Updated September 17, 2026 (UTC)*
